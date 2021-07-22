@@ -14,6 +14,7 @@
         <module>03.Factory</module>
         <module>04.AbstractFactory</module>
         <module>05.Builder</module>
+        <module>06.Proxy</module>
     </modules>
 
     <properties>
