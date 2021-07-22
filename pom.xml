@@ -16,6 +16,7 @@
         <module>05.Builder</module>
         <module>06.Proxy</module>
         <module>07.Adapter</module>
+        <module>08.Decorator</module>
     </modules>
 
     <properties>
