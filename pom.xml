@@ -18,6 +18,7 @@
         <module>07.Adapter</module>
         <module>08.Decorator</module>
         <module>09.Bridge</module>
+        <module>10.Facade</module>
     </modules>
 
     <properties>
