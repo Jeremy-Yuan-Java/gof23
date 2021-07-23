@@ -20,6 +20,7 @@
         <module>09.Bridge</module>
         <module>10.Facade</module>
         <module>11.Flyweight</module>
+        <module>12.Composite</module>
     </modules>
 
     <properties>
