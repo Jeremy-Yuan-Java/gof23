@@ -19,6 +19,7 @@
         <module>08.Decorator</module>
         <module>09.Bridge</module>
         <module>10.Facade</module>
+        <module>11.Flyweight</module>
     </modules>
 
     <properties>
